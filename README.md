@@ -33,7 +33,7 @@ I'm a **full-stack developer** passionate about building clean, user-focused web
 
 ## 🔗 Let’s Connect
 - LinkedIn: [linkedin.com/in/Kennedy](https://www.linkedin.com/in/kennedy-wambua-a01343314)
-- Portfolio: [potfolio-trio.](https://potfolio-trio.vercel.app/)
+- Portfolio: [potfolio-trio.](https://mstr-k.vercel.app/)
 - Email: wambuakennedy467@email.com
 
 ---
